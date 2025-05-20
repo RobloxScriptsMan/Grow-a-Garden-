@@ -4,7 +4,7 @@ Looking to dominate "Grow a Garden" like a true pro? 🌿 Say goodbye to repetit
 
 Whether you're a beginner or a garden tycoon, this script is your shortcut to massive growth and fun!
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/RobloxScriptsMan/Grow-a-Garden-/blob/main/grow%20a%20garden.png)
 
 ---
 
